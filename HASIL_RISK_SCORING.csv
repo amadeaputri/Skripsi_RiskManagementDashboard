@@ -1,0 +1,201 @@
+Tahun;Bulan;Negara_Asal;Supplier;Jumlah_Ton;Hari_Keterlambatan;Tahap_Keterlambatan;Kelengkapan_Dokumen_Lengkap/Tidak_Lengkap;Durasi_Klarifikasi_Dokumen_Hari;Durasi_Bea_Cukai_Hari;Status_Monitoring_Terdeteksi/Tidak_Terdeteksi;Estimasi_Keterlambatan_Awal_Hari;Deviasi_Estimasi_Hari;Dampak_Produksi_Ringan/Sedang/Berat;Alasan_Keterlambatan;Skor_Keterlambatan;Skor_Bea_Cukai;Skor_Dokumen;Skor_Monitoring;Skor_Deviasi;Skor_Klarifikasi;Risk_Score_Mentah;Risk_Score_100;Kategori_Risiko
+2020;1;China;TENDENCY INTERNATIONAL CO., LIMITED;3975;25;Inland;Lengkap;3;1;Tidak Terdeteksi;24;1;Sedang;Kemacetan distribusi ke pabrik;2;1;0;2;1;1;1.00;38.46;Low
+2020;1;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8111;12;Shipping;Lengkap;16;9;Terdeteksi;8;4;Ringan;Kemacetan distribusi ke pabrik;1;2;0;0;1;3;0.95;36.54;Low
+2020;1;China;Shandong Lantian New Material Technology Co.,Ltd.;3504;5;Customs;Lengkap;12;21;Terdeteksi;11;-6;Ringan;Pemeriksaan bea cukai lebih ketat;1;3;0;0;1;3;1.10;42.31;Low
+2020;1;China;TENDENCY INTERNATIONAL CO., LIMITED;8896;42;Inland;Tidak Lengkap;13;7;Tidak Terdeteksi;15;27;Sedang;Kemacetan distribusi ke pabrik;3;2;2;2;3;3;2.45;94.23;High
+2020;2;China;TENDENCY INTERNATIONAL CO., LIMITED;5853;16;Shipping;Lengkap;2;4;Terdeteksi;5;11;Ringan;Penundaan akibat cuaca ekstrem;2;1;0;0;3;1;1.10;42.31;Low
+2020;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;7095;21;Shipping;Lengkap;13;9;Tidak Terdeteksi;11;10;Sedang;Cuaca buruk menghambat pengiriman;2;2;0;2;2;3;1.50;57.69;Medium
+2020;2;China;TENDENCY INTERNATIONAL CO., LIMITED;8151;99;Shipping;Tidak Lengkap;6;17;Tidak Terdeteksi;25;74;Berat;Kapal mengalami perubahan jadwal keberangkatan;3;3;2;2;3;2;2.50;96.15;High
+2020;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8687;2;Shipping;Lengkap;6;20;Terdeteksi;13;-11;Sedang;Kepadatan kontainer di terminal;1;3;0;0;1;2;1.00;38.46;Low
+2020;2;China;TENDENCY INTERNATIONAL CO., LIMITED;3733;11;Customs;Lengkap;12;20;Terdeteksi;7;4;Ringan;Gangguan sistem pelabuhan;1;3;0;0;1;3;1.10;42.31;Low
+2020;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4100;49;Shipping;Lengkap;1;2;Terdeteksi;22;27;Sedang;Kapal mengalami perubahan jadwal keberangkatan;3;1;0;0;3;1;1.30;50.00;Medium
+2020;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5857;40;Inland;Lengkap;2;3;Terdeteksi;15;25;Berat;Kemacetan distribusi ke pabrik;3;1;0;0;3;1;1.30;50.00;Medium
+2020;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5715;5;Shipping;Lengkap;3;5;Terdeteksi;2;3;Sedang;Penundaan akibat cuaca ekstrem;1;2;0;0;1;1;0.75;28.85;Low
+2020;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3788;6;Port;Lengkap;11;22;Terdeteksi;5;1;Ringan;Dokumen impor perlu klarifikasi tambahan;1;3;0;0;1;3;1.10;42.31;Low
+2020;4;China;TENDENCY INTERNATIONAL CO., LIMITED;2767;67;Inland;Lengkap;3;5;Tidak Terdeteksi;23;44;Berat;Keterbatasan kendaraan pengangkut;3;2;0;2;3;1;1.65;63.46;Medium
+2020;4;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3309;0;Shipping;Lengkap;0;3;Terdeteksi;0;0;Sedang;Kapal mengalami perubahan jadwal keberangkatan;1;1;0;0;1;1;0.60;23.08;Low
+2020;4;China;TENDENCY INTERNATIONAL CO., LIMITED;3203;17;Kuota Impor;Lengkap;3;5;Terdeteksi;9;8;Sedang;Kuota impor sementara habis;2;2;0;0;2;1;1.10;42.31;Low
+2020;4;China;TENDENCY INTERNATIONAL CO., LIMITED;4466;49;Kuota Impor;Lengkap;2;5;Tidak Terdeteksi;13;36;Berat;Perubahan regulasi kuota baja;3;2;0;2;3;1;1.65;63.46;Medium
+2020;4;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4053;29;Kuota Impor;Tidak Lengkap;1;4;Terdeteksi;13;16;Sedang;Perubahan regulasi kuota baja;2;1;2;0;3;1;1.70;65.38;Medium
+2020;4;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;8729;32;Port;Tidak Lengkap;14;7;Terdeteksi;22;10;Berat;Kemacetan distribusi ke pabrik;3;2;2;0;2;3;2.10;80.77;High
+2020;4;China;TENDENCY INTERNATIONAL CO., LIMITED;5889;48;Port;Tidak Lengkap;8;9;Terdeteksi;18;30;Berat;Lonjakan volume impor musiman;3;2;2;0;3;3;2.25;86.54;High
+2020;5;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5783;31;Kuota Impor;Tidak Lengkap;2;5;Tidak Terdeteksi;22;9;Sedang;Kuota impor sementara habis;3;2;2;2;2;1;2.10;80.77;High
+2020;5;China;Shandong Lantian New Material Technology Co.,Ltd.;7243;71;Port;Tidak Lengkap;12;16;Tidak Terdeteksi;38;33;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2020;6;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2654;54;Shipping;Tidak Lengkap;3;5;Tidak Terdeteksi;12;42;Berat;Kapal mengalami perubahan jadwal keberangkatan;3;2;2;2;3;1;2.25;86.54;High
+2020;6;China;Shandong Lantian New Material Technology Co.,Ltd.;6198;3;Customs;Lengkap;11;21;Terdeteksi;3;0;Ringan;Kepadatan kontainer di terminal;1;3;0;0;1;3;1.10;42.31;Low
+2020;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4729;117;Kuota Impor;Tidak Lengkap;1;2;Tidak Terdeteksi;18;99;Berat;Menunggu persetujuan tambahan kuota;3;1;2;2;3;1;2.10;80.77;High
+2020;7;China;TENDENCY INTERNATIONAL CO., LIMITED;3647;9;Inland;Lengkap;1;4;Terdeteksi;11;-2;Ringan;Keterbatasan kendaraan pengangkut;1;1;0;0;1;1;0.60;23.08;Low
+2020;8;China;TENDENCY INTERNATIONAL CO., LIMITED;2766;38;Inland;Tidak Lengkap;0;5;Terdeteksi;18;20;Berat;Keterlambatan armada trucking;3;2;2;0;3;1;2.05;78.85;High
+2020;8;China;TENDENCY INTERNATIONAL CO., LIMITED;6296;23;Customs;Tidak Lengkap;16;12;Terdeteksi;21;2;Sedang;Kepadatan kontainer di terminal;2;3;2;0;1;3;1.90;73.08;High
+2020;9;China;TENDENCY INTERNATIONAL CO., LIMITED;3154;20;Customs;Lengkap;3;4;Terdeteksi;7;13;Sedang;Dokumen impor perlu klarifikasi tambahan;2;1;0;0;3;1;1.10;42.31;Low
+2020;9;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3805;48;Inland;Tidak Lengkap;13;12;Tidak Terdeteksi;29;19;Sedang;Penahanan barang untuk inspeksi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2020;10;China;TENDENCY INTERNATIONAL CO., LIMITED;6578;104;Inland;Lengkap;11;17;Tidak Terdeteksi;45;59;Berat;Kemacetan distribusi ke pabrik;3;3;0;2;3;3;2.00;76.92;High
+2020;11;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5662;17;Inland;Lengkap;0;1;Terdeteksi;6;11;Ringan;Keterbatasan kendaraan pengangkut;2;1;0;0;3;1;1.10;42.31;Low
+2020;11;China;TENDENCY INTERNATIONAL CO., LIMITED;3609;35;Kuota Impor;Tidak Lengkap;3;3;Terdeteksi;24;11;Sedang;Menunggu persetujuan tambahan kuota;3;1;2;0;3;1;1.90;73.08;High
+2020;11;China;TENDENCY INTERNATIONAL CO., LIMITED;5654;7;Customs;Lengkap;10;4;Terdeteksi;13;-6;Sedang;Pemeriksaan fisik barang oleh bea cukai;1;1;0;0;1;3;0.80;30.77;Low
+2020;11;China;TENDENCY INTERNATIONAL CO., LIMITED;4348;87;Customs;Tidak Lengkap;5;3;Tidak Terdeteksi;34;53;Berat;Dokumen impor perlu klarifikasi tambahan;3;1;2;2;3;2;2.20;84.62;High
+2020;11;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2788;32;Port;Lengkap;0;2;Tidak Terdeteksi;23;9;Berat;Kepadatan kontainer di terminal;3;1;0;2;2;1;1.35;51.92;Medium
+2020;12;China;TENDENCY INTERNATIONAL CO., LIMITED;5863;6;Shipping;Lengkap;0;3;Terdeteksi;1;5;Sedang;Penundaan akibat cuaca ekstrem;1;1;0;0;1;1;0.60;23.08;Low
+2020;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2809;86;Shipping;Lengkap;3;5;Tidak Terdeteksi;12;74;Berat;Kepadatan jalur pelayaran internasional;3;2;0;2;3;1;1.65;63.46;Medium
+2020;12;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7157;5;Port;Lengkap;12;12;Terdeteksi;13;-8;Ringan;Kepadatan kontainer di terminal;1;3;0;0;1;3;1.10;42.31;Low
+2020;12;China;TENDENCY INTERNATIONAL CO., LIMITED;6767;32;Shipping;Lengkap;8;15;Terdeteksi;11;21;Sedang;Kemacetan distribusi ke pabrik;3;3;0;0;3;3;1.80;69.23;Medium
+2021;1;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4587;94;Inland;Tidak Lengkap;1;4;Tidak Terdeteksi;45;49;Berat;Kemacetan distribusi ke pabrik;3;1;2;2;3;1;2.10;80.77;High
+2021;1;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;3523;11;Shipping;Lengkap;18;18;Terdeteksi;9;2;Sedang;Gangguan sistem pelabuhan;1;3;0;0;1;3;1.10;42.31;Low
+2021;1;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7458;18;Port;Lengkap;16;8;Terdeteksi;11;7;Ringan;Kapal mengalami perubahan jadwal keberangkatan;2;2;0;0;2;3;1.30;50.00;Medium
+2021;2;China;TENDENCY INTERNATIONAL CO., LIMITED;4609;19;Port;Lengkap;1;4;Terdeteksi;0;19;Sedang;Antrian bongkar muat tinggi di pelabuhan;2;1;0;0;3;1;1.10;42.31;Low
+2021;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8953;65;Customs;Tidak Lengkap;15;16;Tidak Terdeteksi;37;28;Berat;Pemeriksaan bea cukai lebih ketat;3;3;2;2;3;3;2.60;100.00;High
+2021;2;China;Shandong Lantian New Material Technology Co.,Ltd.;7619;49;Shipping;Tidak Lengkap;15;16;Tidak Terdeteksi;30;19;Sedang;Dokumen impor perlu klarifikasi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2021;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4417;86;Customs;Lengkap;8;15;Tidak Terdeteksi;39;47;Berat;Pemeriksaan fisik barang oleh bea cukai;3;3;0;2;3;3;2.00;76.92;High
+2021;3;China;TENDENCY INTERNATIONAL CO., LIMITED;3759;64;Customs;Tidak Lengkap;16;7;Tidak Terdeteksi;30;34;Berat;Penahanan barang untuk inspeksi tambahan;3;2;2;2;3;3;2.45;94.23;High
+2021;5;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;8823;20;Customs;Lengkap;15;20;Terdeteksi;2;18;Ringan;Kemacetan distribusi ke pabrik;2;3;0;0;3;3;1.60;61.54;Medium
+2021;5;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;5451;8;Port;Lengkap;8;16;Terdeteksi;12;-4;Sedang;Penahanan barang untuk inspeksi tambahan;1;3;0;0;1;3;1.10;42.31;Low
+2021;5;China;TENDENCY INTERNATIONAL CO., LIMITED;3999;7;Shipping;Lengkap;8;18;Terdeteksi;13;-6;Ringan;Pemeriksaan bea cukai lebih ketat;1;3;0;0;1;3;1.10;42.31;Low
+2021;6;China;TENDENCY INTERNATIONAL CO., LIMITED;6304;8;Customs;Lengkap;18;17;Terdeteksi;5;3;Ringan;Lonjakan volume impor musiman;1;3;0;0;1;3;1.10;42.31;Low
+2021;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5359;26;Shipping;Lengkap;0;3;Tidak Terdeteksi;11;15;Berat;Kapal mengalami perubahan jadwal keberangkatan;2;1;0;2;3;1;1.30;50.00;Medium
+2021;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2091;4;Port;Lengkap;1;3;Terdeteksi;9;-5;Ringan;Kepadatan kontainer di terminal;1;1;0;0;1;1;0.60;23.08;Low
+2021;8;China;TENDENCY INTERNATIONAL CO., LIMITED;5969;9;Shipping;Lengkap;0;3;Terdeteksi;2;7;Sedang;Kepadatan jalur pelayaran internasional;1;1;0;0;2;1;0.75;28.85;Low
+2021;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2998;90;Kuota Impor;Lengkap;2;4;Tidak Terdeteksi;17;73;Berat;Menunggu persetujuan tambahan kuota;3;1;0;2;3;1;1.50;57.69;Medium
+2021;9;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5484;69;Port;Lengkap;0;5;Tidak Terdeteksi;31;38;Berat;Kepadatan kontainer di terminal;3;2;0;2;3;1;1.65;63.46;Medium
+2021;10;China;TENDENCY INTERNATIONAL CO., LIMITED;3117;11;Inland;Lengkap;1;3;Terdeteksi;6;5;Ringan;Keterbatasan kendaraan pengangkut;1;1;0;0;1;1;0.60;23.08;Low
+2021;10;China;Shandong Lantian New Material Technology Co.,Ltd.;5438;5;Shipping;Lengkap;9;21;Terdeteksi;9;-4;Sedang;Cuaca buruk menghambat pengiriman;1;3;0;0;1;3;1.10;42.31;Low
+2021;11;China;TENDENCY INTERNATIONAL CO., LIMITED;3063;1;Shipping;Lengkap;2;2;Terdeteksi;10;-9;Sedang;Kapal mengalami perubahan jadwal keberangkatan;1;1;0;0;1;1;0.60;23.08;Low
+2021;11;China;TENDENCY INTERNATIONAL CO., LIMITED;6312;30;Inland;Lengkap;10;9;Terdeteksi;29;1;Sedang;Pemeriksaan bea cukai lebih ketat;2;2;0;0;1;3;1.15;44.23;Low
+2021;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5759;96;Customs;Tidak Lengkap;9;7;Tidak Terdeteksi;41;55;Berat;Dokumen impor perlu klarifikasi tambahan;3;2;2;2;3;3;2.45;94.23;High
+2021;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3657;91;Inland;Lengkap;2;4;Tidak Terdeteksi;31;60;Berat;Keterbatasan kendaraan pengangkut;3;1;0;2;3;1;1.50;57.69;Medium
+2021;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3488;10;Shipping;Lengkap;3;4;Terdeteksi;12;-2;Sedang;Kapal mengalami perubahan jadwal keberangkatan;1;1;0;0;1;1;0.60;23.08;Low
+2021;12;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;6962;85;Customs;Tidak Lengkap;18;19;Tidak Terdeteksi;21;64;Berat;Cuaca buruk menghambat pengiriman;3;3;2;2;3;3;2.60;100.00;High
+2021;12;China;Shandong Lantian New Material Technology Co.,Ltd.;6369;21;Shipping;Tidak Lengkap;15;18;Terdeteksi;28;-7;Sedang;Lonjakan volume impor musiman;2;3;2;0;1;3;1.90;73.08;High
+2022;1;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3075;106;Inland;Tidak Lengkap;0;4;Tidak Terdeteksi;34;72;Berat;Keterlambatan armada trucking;3;1;2;2;3;1;2.10;80.77;High
+2022;1;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;3085;33;Inland;Lengkap;11;10;Terdeteksi;28;5;Sedang;Kapal mengalami perubahan jadwal keberangkatan;3;2;0;0;1;3;1.35;51.92;Medium
+2022;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4796;4;Kuota Impor;Lengkap;3;1;Terdeteksi;10;-6;Ringan;Perubahan regulasi kuota baja;1;1;0;0;1;1;0.60;23.08;Low
+2022;2;China;TENDENCY INTERNATIONAL CO., LIMITED;2070;54;Port;Lengkap;0;2;Tidak Terdeteksi;16;38;Berat;Keterbatasan alat bongkar pelabuhan;3;1;0;2;3;1;1.50;57.69;Medium
+2022;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4642;17;Customs;Lengkap;5;5;Terdeteksi;1;16;Ringan;Penyesuaian HS Code oleh otoritas;2;2;0;0;3;2;1.35;51.92;Medium
+2022;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4742;58;Customs;Tidak Lengkap;6;8;Tidak Terdeteksi;38;20;Berat;Dokumen impor perlu klarifikasi tambahan;3;2;2;2;3;2;2.35;90.38;High
+2022;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4149;39;Customs;Lengkap;11;6;Terdeteksi;12;27;Sedang;Keterbatasan kendaraan pengangkut;3;2;0;0;3;3;1.65;63.46;Medium
+2022;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8904;105;Shipping;Tidak Lengkap;7;9;Tidak Terdeteksi;20;85;Berat;Kapal mengalami perubahan jadwal keberangkatan;3;2;2;2;3;3;2.45;94.23;High
+2022;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4953;11;Kuota Impor;Lengkap;1;5;Terdeteksi;0;11;Ringan;Menunggu persetujuan tambahan kuota;1;2;0;0;3;1;1.05;40.38;Low
+2022;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2249;25;Port;Lengkap;2;5;Tidak Terdeteksi;29;-4;Sedang;Keterbatasan alat bongkar pelabuhan;2;2;0;2;1;1;1.15;44.23;Low
+2022;3;China;TENDENCY INTERNATIONAL CO., LIMITED;3654;33;Port;Tidak Lengkap;3;3;Tidak Terdeteksi;20;13;Berat;Antrian bongkar muat tinggi di pelabuhan;3;1;2;2;3;1;2.10;80.77;High
+2022;3;China;Shandong Lantian New Material Technology Co.,Ltd.;7338;2;Shipping;Lengkap;6;6;Terdeteksi;5;-3;Ringan;Kapal mengalami perubahan jadwal keberangkatan;1;2;0;0;1;2;0.85;32.69;Low
+2022;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;6792;49;Customs;Tidak Lengkap;11;7;Terdeteksi;21;28;Sedang;Kepadatan kontainer di terminal;3;2;2;0;3;3;2.25;86.54;High
+2022;3;China;TENDENCY INTERNATIONAL CO., LIMITED;3154;36;Customs;Tidak Lengkap;11;11;Tidak Terdeteksi;30;6;Sedang;Penahanan barang untuk inspeksi tambahan;3;3;2;2;2;3;2.45;94.23;High
+2022;3;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7884;11;Customs;Lengkap;16;19;Terdeteksi;0;11;Ringan;Gangguan sistem pelabuhan;1;3;0;0;3;3;1.40;53.85;Medium
+2022;3;China;TENDENCY INTERNATIONAL CO., LIMITED;6487;10;Inland;Lengkap;15;15;Terdeteksi;4;6;Ringan;Lonjakan volume impor musiman;1;3;0;0;2;3;1.25;48.08;Medium
+2022;3;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;4274;87;Customs;Tidak Lengkap;16;8;Tidak Terdeteksi;15;72;Berat;Lonjakan volume impor musiman;3;2;2;2;3;3;2.45;94.23;High
+2022;4;China;TENDENCY INTERNATIONAL CO., LIMITED;5272;10;Kuota Impor;Lengkap;1;4;Terdeteksi;6;4;Sedang;Perubahan regulasi kuota baja;1;1;0;0;1;1;0.60;23.08;Low
+2022;4;China;Shandong Lantian New Material Technology Co.,Ltd.;6419;34;Inland;Lengkap;6;14;Tidak Terdeteksi;28;6;Sedang;Kepadatan kontainer di terminal;3;3;0;2;2;2;1.75;67.31;Medium
+2022;4;China;Shandong Lantian New Material Technology Co.,Ltd.;7853;18;Inland;Lengkap;14;10;Terdeteksi;12;6;Ringan;Pemeriksaan bea cukai lebih ketat;2;2;0;0;2;3;1.30;50.00;Medium
+2022;4;China;TENDENCY INTERNATIONAL CO., LIMITED;4140;101;Inland;Lengkap;11;22;Tidak Terdeteksi;43;58;Berat;Cuaca buruk menghambat pengiriman;3;3;0;2;3;3;2.00;76.92;High
+2022;5;China;TENDENCY INTERNATIONAL CO., LIMITED;3512;55;Shipping;Tidak Lengkap;6;16;Tidak Terdeteksi;29;26;Berat;Kesalahan administrasi dokumen impor;3;3;2;2;3;2;2.50;96.15;High
+2022;6;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8283;53;Inland;Lengkap;9;15;Tidak Terdeteksi;32;21;Berat;Pemeriksaan bea cukai lebih ketat;3;3;0;2;3;3;2.00;76.92;High
+2022;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;6185;86;Customs;Tidak Lengkap;15;11;Tidak Terdeteksi;38;48;Berat;Penahanan barang untuk inspeksi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2022;7;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;5857;30;Customs;Lengkap;14;21;Terdeteksi;23;7;Berat;Keterbatasan kendaraan pengangkut;2;3;0;0;2;3;1.45;55.77;Medium
+2022;7;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;3725;116;Shipping;Tidak Lengkap;9;16;Tidak Terdeteksi;25;91;Berat;Lonjakan volume impor musiman;3;3;2;2;3;3;2.60;100.00;High
+2022;8;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;3406;44;Inland;Tidak Lengkap;9;11;Tidak Terdeteksi;20;24;Sedang;Keterbatasan kendaraan pengangkut;3;3;2;2;3;3;2.60;100.00;High
+2022;9;China;TENDENCY INTERNATIONAL CO., LIMITED;4388;26;Customs;Tidak Lengkap;9;7;Tidak Terdeteksi;30;-4;Berat;Pemeriksaan fisik barang oleh bea cukai;2;2;2;2;1;3;1.95;75.00;High
+2022;9;China;TENDENCY INTERNATIONAL CO., LIMITED;7687;46;Customs;Lengkap;12;16;Terdeteksi;17;29;Sedang;Kesalahan administrasi dokumen impor;3;3;0;0;3;3;1.80;69.23;Medium
+2022;9;China;Shandong Lantian New Material Technology Co.,Ltd.;7497;21;Customs;Tidak Lengkap;15;17;Tidak Terdeteksi;15;6;Berat;Kepadatan kontainer di terminal;2;3;2;2;2;3;2.25;86.54;High
+2022;9;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;7052;49;Customs;Lengkap;11;21;Terdeteksi;18;31;Sedang;Kesalahan administrasi dokumen impor;3;3;0;0;3;3;1.80;69.23;Medium
+2022;9;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;5555;49;Customs;Tidak Lengkap;14;21;Tidak Terdeteksi;21;28;Sedang;Penahanan barang untuk inspeksi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2022;10;China;Shandong Lantian New Material Technology Co.,Ltd.;5125;10;Shipping;Lengkap;13;16;Terdeteksi;11;-1;Ringan;Cuaca buruk menghambat pengiriman;1;3;0;0;1;3;1.10;42.31;Low
+2022;10;China;TENDENCY INTERNATIONAL CO., LIMITED;5338;64;Customs;Tidak Lengkap;9;10;Tidak Terdeteksi;44;20;Berat;Kemacetan distribusi ke pabrik;3;2;2;2;3;3;2.45;94.23;High
+2022;11;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;4206;26;Port;Lengkap;7;20;Tidak Terdeteksi;21;5;Berat;Kapal mengalami perubahan jadwal keberangkatan;2;3;0;2;1;3;1.50;57.69;Medium
+2022;12;China;Shandong Lantian New Material Technology Co.,Ltd.;7614;114;Inland;Lengkap;8;18;Tidak Terdeteksi;28;86;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;0;2;3;3;2.00;76.92;High
+2022;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3987;40;Customs;Lengkap;10;14;Tidak Terdeteksi;12;28;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;0;2;3;3;2.00;76.92;High
+2023;1;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5172;104;Port;Tidak Lengkap;9;19;Tidak Terdeteksi;22;82;Berat;Kemacetan distribusi ke pabrik;3;3;2;2;3;3;2.60;100.00;High
+2023;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8048;103;Inland;Tidak Lengkap;14;9;Tidak Terdeteksi;21;82;Berat;Kepadatan kontainer di terminal;3;2;2;2;3;3;2.45;94.23;High
+2023;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4791;108;Customs;Tidak Lengkap;5;9;Tidak Terdeteksi;32;76;Berat;Dokumen impor perlu klarifikasi tambahan;3;2;2;2;3;2;2.35;90.38;High
+2023;3;China;Shandong Lantian New Material Technology Co.,Ltd.;6188;38;Shipping;Tidak Lengkap;14;6;Terdeteksi;30;8;Berat;Cuaca buruk menghambat pengiriman;3;2;2;0;2;3;2.10;80.77;High
+2023;3;China;Shandong Lantian New Material Technology Co.,Ltd.;3505;0;Port;Lengkap;8;11;Terdeteksi;15;-15;Sedang;Kemacetan distribusi ke pabrik;1;3;0;0;1;3;1.10;42.31;Low
+2023;3;China;Shandong Lantian New Material Technology Co.,Ltd.;5030;108;Inland;Tidak Lengkap;12;17;Tidak Terdeteksi;37;71;Berat;Gangguan sistem pelabuhan;3;3;2;2;3;3;2.60;100.00;High
+2023;4;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3538;108;Inland;Lengkap;2;1;Tidak Terdeteksi;26;82;Berat;Keterlambatan armada trucking;3;1;0;2;3;1;1.50;57.69;Medium
+2023;4;China;TENDENCY INTERNATIONAL CO., LIMITED;3703;6;Shipping;Lengkap;17;18;Terdeteksi;0;6;Ringan;Keterbatasan kendaraan pengangkut;1;3;0;0;2;3;1.25;48.08;Medium
+2023;4;China;TENDENCY INTERNATIONAL CO., LIMITED;8883;44;Port;Lengkap;6;17;Terdeteksi;20;24;Berat;Gangguan sistem pelabuhan;3;3;0;0;3;2;1.70;65.38;Medium
+2023;4;China;TENDENCY INTERNATIONAL CO., LIMITED;6144;96;Shipping;Tidak Lengkap;16;11;Tidak Terdeteksi;15;81;Berat;Gangguan sistem pelabuhan;3;3;2;2;3;3;2.60;100.00;High
+2023;5;China;TENDENCY INTERNATIONAL CO., LIMITED;4687;13;Customs;Lengkap;10;6;Terdeteksi;7;6;Ringan;Penyesuaian HS Code oleh otoritas;1;2;0;0;2;3;1.10;42.31;Low
+2023;5;China;Shandong Lantian New Material Technology Co.,Ltd.;8642;91;Inland;Tidak Lengkap;7;17;Tidak Terdeteksi;38;53;Berat;Cuaca buruk menghambat pengiriman;3;3;2;2;3;3;2.60;100.00;High
+2023;5;China;Shandong Lantian New Material Technology Co.,Ltd.;6508;51;Customs;Tidak Lengkap;8;16;Tidak Terdeteksi;32;19;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2023;5;China;Shandong Lantian New Material Technology Co.,Ltd.;5394;114;Inland;Lengkap;13;11;Tidak Terdeteksi;22;92;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;0;2;3;3;2.00;76.92;High
+2023;5;China;TENDENCY INTERNATIONAL CO., LIMITED;5308;22;Customs;Lengkap;7;20;Tidak Terdeteksi;14;8;Sedang;Kemacetan distribusi ke pabrik;2;3;0;2;2;3;1.65;63.46;Medium
+2023;6;China;TENDENCY INTERNATIONAL CO., LIMITED;5441;7;Inland;Lengkap;2;2;Terdeteksi;9;-2;Sedang;Kemacetan distribusi ke pabrik;1;1;0;0;1;1;0.60;23.08;Low
+2023;6;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3956;3;Shipping;Lengkap;1;2;Terdeteksi;12;-9;Sedang;Penundaan akibat cuaca ekstrem;1;1;0;0;1;1;0.60;23.08;Low
+2023;6;China;TENDENCY INTERNATIONAL CO., LIMITED;4297;77;Customs;Tidak Lengkap;8;24;Tidak Terdeteksi;14;63;Berat;Pemeriksaan bea cukai lebih ketat;3;3;2;2;3;3;2.60;100.00;High
+2023;6;China;Shandong Lantian New Material Technology Co.,Ltd.;4814;83;Customs;Tidak Lengkap;17;22;Tidak Terdeteksi;33;50;Berat;Penahanan barang untuk inspeksi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2023;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4981;54;Inland;Tidak Lengkap;3;1;Tidak Terdeteksi;29;25;Berat;Kemacetan distribusi ke pabrik;3;1;2;2;3;1;2.10;80.77;High
+2023;7;China;TENDENCY INTERNATIONAL CO., LIMITED;4955;1;Inland;Lengkap;10;6;Terdeteksi;11;-10;Ringan;Penahanan barang untuk inspeksi tambahan;1;2;0;0;1;3;0.95;36.54;Low
+2023;7;China;TENDENCY INTERNATIONAL CO., LIMITED;4745;10;Port;Lengkap;15;10;Terdeteksi;4;6;Ringan;Cuaca buruk menghambat pengiriman;1;2;0;0;2;3;1.10;42.31;Low
+2023;7;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;6279;28;Port;Lengkap;15;16;Terdeteksi;14;14;Sedang;Cuaca buruk menghambat pengiriman;2;3;0;0;3;3;1.60;61.54;Medium
+2023;7;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;3809;43;Customs;Tidak Lengkap;6;19;Terdeteksi;16;27;Sedang;Cuaca buruk menghambat pengiriman;3;3;2;0;3;2;2.30;88.46;High
+2023;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5894;24;Kuota Impor;Tidak Lengkap;0;1;Terdeteksi;17;7;Sedang;Menunggu persetujuan tambahan kuota;2;1;2;0;2;1;1.55;59.62;Medium
+2023;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5319;11;Customs;Lengkap;12;18;Terdeteksi;5;6;Ringan;Dokumen impor perlu klarifikasi tambahan;1;3;0;0;2;3;1.25;48.08;Medium
+2023;8;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;4599;0;Customs;Lengkap;18;23;Terdeteksi;14;-14;Sedang;Lonjakan volume impor musiman;1;3;0;0;1;3;1.10;42.31;Low
+2023;9;China;TENDENCY INTERNATIONAL CO., LIMITED;6700;95;Shipping;Lengkap;9;13;Tidak Terdeteksi;22;73;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;0;2;3;3;2.00;76.92;High
+2023;11;China;TENDENCY INTERNATIONAL CO., LIMITED;5773;60;Shipping;Lengkap;14;11;Tidak Terdeteksi;41;19;Berat;Cuaca buruk menghambat pengiriman;3;3;0;2;3;3;2.00;76.92;High
+2023;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;6829;33;Inland;Tidak Lengkap;9;11;Terdeteksi;29;4;Sedang;Dokumen impor perlu klarifikasi tambahan;3;3;2;0;1;3;2.10;80.77;High
+2023;12;China;TENDENCY INTERNATIONAL CO., LIMITED;4524;15;Shipping;Lengkap;10;12;Terdeteksi;1;14;Ringan;Gangguan sistem pelabuhan;2;3;0;0;3;3;1.60;61.54;Medium
+2023;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3951;27;Shipping;Tidak Lengkap;15;7;Terdeteksi;15;12;Sedang;Kemacetan distribusi ke pabrik;2;2;2;0;3;3;2.05;78.85;High
+2024;1;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2288;82;Inland;Tidak Lengkap;2;4;Tidak Terdeteksi;10;72;Berat;Kemacetan distribusi ke pabrik;3;1;2;2;3;1;2.10;80.77;High
+2024;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4079;7;Shipping;Lengkap;0;1;Terdeteksi;10;-3;Ringan;Penundaan akibat cuaca ekstrem;1;1;0;0;1;1;0.60;23.08;Low
+2024;2;China;TENDENCY INTERNATIONAL CO., LIMITED;5306;28;Port;Lengkap;0;3;Terdeteksi;24;4;Sedang;Kepadatan kontainer di terminal;2;1;0;0;1;1;0.80;30.77;Low
+2024;2;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;3174;88;Shipping;Tidak Lengkap;13;12;Tidak Terdeteksi;42;46;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2024;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4012;52;Customs;Lengkap;6;18;Tidak Terdeteksi;41;11;Berat;Cuaca buruk menghambat pengiriman;3;3;0;2;3;2;1.90;73.08;High
+2024;2;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7354;8;Shipping;Lengkap;10;17;Terdeteksi;2;6;Ringan;Dokumen impor perlu klarifikasi tambahan;1;3;0;0;2;3;1.25;48.08;Medium
+2024;2;China;Shandong Lantian New Material Technology Co.,Ltd.;6163;0;Customs;Lengkap;9;20;Terdeteksi;11;-11;Ringan;Kapal mengalami perubahan jadwal keberangkatan;1;3;0;0;1;3;1.10;42.31;Low
+2024;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5734;108;Customs;Tidak Lengkap;13;15;Tidak Terdeteksi;45;63;Berat;Kesalahan administrasi dokumen impor;3;3;2;2;3;3;2.60;100.00;High
+2024;3;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5522;19;Inland;Lengkap;6;21;Terdeteksi;6;13;Sedang;Gangguan sistem pelabuhan;2;3;0;0;3;2;1.50;57.69;Medium
+2024;4;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4727;24;Customs;Tidak Lengkap;8;7;Terdeteksi;19;5;Sedang;Kapal mengalami perubahan jadwal keberangkatan;2;2;2;0;1;3;1.75;67.31;Medium
+2024;4;China;TENDENCY INTERNATIONAL CO., LIMITED;8842;43;Customs;Tidak Lengkap;10;14;Terdeteksi;11;32;Sedang;Gangguan sistem pelabuhan;3;3;2;0;3;3;2.40;92.31;High
+2024;5;China;Shandong Lantian New Material Technology Co.,Ltd.;3924;112;Port;Tidak Lengkap;15;8;Tidak Terdeteksi;38;74;Berat;Kesalahan administrasi dokumen impor;3;2;2;2;3;3;2.45;94.23;High
+2024;5;China;TENDENCY INTERNATIONAL CO., LIMITED;5665;11;Shipping;Lengkap;12;12;Terdeteksi;10;1;Ringan;Pemeriksaan bea cukai lebih ketat;1;3;0;0;1;3;1.10;42.31;Low
+2024;5;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4780;66;Customs;Tidak Lengkap;14;8;Tidak Terdeteksi;19;47;Berat;Kesalahan administrasi dokumen impor;3;2;2;2;3;3;2.45;94.23;High
+2024;5;China;Shandong Lantian New Material Technology Co.,Ltd.;5934;107;Port;Lengkap;16;21;Tidak Terdeteksi;39;68;Berat;Kapal mengalami perubahan jadwal keberangkatan;3;3;0;2;3;3;2.00;76.92;High
+2024;5;China;TENDENCY INTERNATIONAL CO., LIMITED;7752;8;Shipping;Lengkap;7;19;Terdeteksi;7;1;Ringan;Keterbatasan kendaraan pengangkut;1;3;0;0;1;3;1.10;42.31;Low
+2024;6;China;Shandong Lantian New Material Technology Co.,Ltd.;7405;36;Inland;Lengkap;13;17;Tidak Terdeteksi;17;19;Sedang;Dokumen impor perlu klarifikasi tambahan;3;3;0;2;3;3;2.00;76.92;High
+2024;6;China;Shandong Lantian New Material Technology Co.,Ltd.;8481;35;Inland;Tidak Lengkap;7;8;Tidak Terdeteksi;16;19;Sedang;Pemeriksaan bea cukai lebih ketat;3;2;2;2;3;3;2.45;94.23;High
+2024;6;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7196;2;Customs;Lengkap;7;21;Terdeteksi;11;-9;Sedang;Kemacetan distribusi ke pabrik;1;3;0;0;1;3;1.10;42.31;Low
+2024;6;China;TENDENCY INTERNATIONAL CO., LIMITED;4554;51;Customs;Lengkap;6;11;Tidak Terdeteksi;11;40;Berat;Kemacetan distribusi ke pabrik;3;3;0;2;3;2;1.90;73.08;High
+2024;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3376;90;Customs;Tidak Lengkap;10;8;Tidak Terdeteksi;33;57;Berat;Dokumen impor perlu klarifikasi tambahan;3;2;2;2;3;3;2.45;94.23;High
+2024;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4248;12;Inland;Lengkap;1;4;Terdeteksi;4;8;Ringan;Keterbatasan kendaraan pengangkut;1;1;0;0;2;1;0.75;28.85;Low
+2024;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3933;34;Shipping;Lengkap;12;22;Tidak Terdeteksi;23;11;Sedang;Kapal mengalami perubahan jadwal keberangkatan;3;3;0;2;3;3;2.00;76.92;High
+2024;7;China;Shandong Lantian New Material Technology Co.,Ltd.;5004;3;Inland;Lengkap;15;15;Terdeteksi;7;-4;Ringan;Dokumen impor perlu klarifikasi tambahan;1;3;0;0;1;3;1.10;42.31;Low
+2024;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;5277;7;Port;Lengkap;0;4;Terdeteksi;13;-6;Ringan;Antrian bongkar muat tinggi di pelabuhan;1;1;0;0;1;1;0.60;23.08;Low
+2024;8;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;7420;2;Port;Lengkap;12;9;Terdeteksi;1;1;Ringan;Kapal mengalami perubahan jadwal keberangkatan;1;2;0;0;1;3;0.95;36.54;Low
+2024;8;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;5846;15;Shipping;Lengkap;14;13;Terdeteksi;4;11;Ringan;Kapal mengalami perubahan jadwal keberangkatan;2;3;0;0;3;3;1.60;61.54;Medium
+2024;9;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4435;48;Customs;Lengkap;6;13;Tidak Terdeteksi;25;23;Sedang;Pemeriksaan fisik barang oleh bea cukai;3;3;0;2;3;2;1.90;73.08;High
+2024;9;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;7296;87;Customs;Tidak Lengkap;5;16;Tidak Terdeteksi;42;45;Berat;Dokumen impor perlu klarifikasi tambahan;3;3;2;2;3;2;2.50;96.15;High
+2024;9;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;6512;47;Customs;Lengkap;9;8;Terdeteksi;23;24;Sedang;Cuaca buruk menghambat pengiriman;3;2;0;0;3;3;1.65;63.46;Medium
+2024;9;China;Shandong Lantian New Material Technology Co.,Ltd.;8456;28;Customs;Tidak Lengkap;17;21;Tidak Terdeteksi;13;15;Berat;Penahanan barang untuk inspeksi tambahan;2;3;2;2;3;3;2.40;92.31;High
+2024;10;China;TENDENCY INTERNATIONAL CO., LIMITED;5220;22;Kuota Impor;Lengkap;0;1;Terdeteksi;13;9;Berat;Perubahan regulasi kuota baja;2;1;0;0;2;1;0.95;36.54;Low
+2024;10;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;3181;48;Port;Tidak Lengkap;0;2;Terdeteksi;20;28;Berat;Keterbatasan alat bongkar pelabuhan;3;1;2;0;3;1;1.90;73.08;High
+2024;10;China;Shandong Lantian New Material Technology Co.,Ltd.;4229;77;Shipping;Lengkap;9;12;Tidak Terdeteksi;42;35;Berat;Kapal mengalami perubahan jadwal keberangkatan;3;3;0;2;3;3;2.00;76.92;High
+2024;11;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;4808;95;Customs;Lengkap;2;11;Tidak Terdeteksi;33;62;Berat;Penyesuaian HS Code oleh otoritas;3;3;0;2;3;1;1.80;69.23;Medium
+2024;11;China;Shandong Lantian New Material Technology Co.,Ltd.;3969;3;Port;Lengkap;15;15;Terdeteksi;6;-3;Sedang;Kemacetan distribusi ke pabrik;1;3;0;0;1;3;1.10;42.31;Low
+2024;11;China;Shandong Lantian New Material Technology Co.,Ltd.;3949;17;Inland;Lengkap;17;24;Terdeteksi;7;10;Ringan;Lonjakan volume impor musiman;2;3;0;0;2;3;1.45;55.77;Medium
+2025;1;China;TENDENCY INTERNATIONAL CO., LIMITED;5122;7;Shipping;Lengkap;1;1;Terdeteksi;15;-8;Sedang;Kepadatan jalur pelayaran internasional;1;1;0;0;1;1;0.60;23.08;Low
+2025;1;China;Shandong Lantian New Material Technology Co.,Ltd.;8190;116;Port;Lengkap;15;8;Tidak Terdeteksi;11;105;Berat;Penahanan barang untuk inspeksi tambahan;3;2;0;2;3;3;1.85;71.15;High
+2025;2;China;TENDENCY INTERNATIONAL CO., LIMITED;5502;118;Shipping;Tidak Lengkap;11;15;Tidak Terdeteksi;33;85;Berat;Kepadatan kontainer di terminal;3;3;2;2;3;3;2.60;100.00;High
+2025;2;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8555;24;Customs;Lengkap;12;20;Tidak Terdeteksi;16;8;Sedang;Keterlambatan proses unloading;2;3;0;2;2;3;1.65;63.46;Medium
+2025;3;China;TENDENCY INTERNATIONAL CO., LIMITED;4323;32;Inland;Lengkap;18;15;Tidak Terdeteksi;20;12;Sedang;Gangguan sistem pelabuhan;3;3;0;2;3;3;2.00;76.92;High
+2025;3;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;9096;5;Inland;Lengkap;16;23;Terdeteksi;0;5;Ringan;Pemeriksaan bea cukai lebih ketat;1;3;0;0;1;3;1.10;42.31;Low
+2025;4;China;TENDENCY INTERNATIONAL CO., LIMITED;2518;87;Shipping;Tidak Lengkap;0;4;Tidak Terdeteksi;15;72;Berat;Penundaan akibat cuaca ekstrem;3;1;2;2;3;1;2.10;80.77;High
+2025;4;China;Shandong Lantian New Material Technology Co.,Ltd.;8512;83;Shipping;Lengkap;10;22;Tidak Terdeteksi;33;50;Berat;Gangguan sistem pelabuhan;3;3;0;2;3;3;2.00;76.92;High
+2025;6;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7058;100;Port;Tidak Lengkap;8;12;Tidak Terdeteksi;34;66;Berat;Gangguan sistem pelabuhan;3;3;2;2;3;3;2.60;100.00;High
+2025;6;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;8260;36;Inland;Lengkap;8;12;Terdeteksi;13;23;Sedang;Keterlambatan proses unloading;3;3;0;0;3;3;1.80;69.23;Medium
+2025;6;China;Shandong Lantian New Material Technology Co.,Ltd.;3541;118;Customs;Tidak Lengkap;8;24;Tidak Terdeteksi;24;94;Berat;Kemacetan distribusi ke pabrik;3;3;2;2;3;3;2.60;100.00;High
+2025;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;2227;33;Port;Lengkap;0;3;Tidak Terdeteksi;20;13;Sedang;Kepadatan kontainer di terminal;3;1;0;2;3;1;1.50;57.69;Medium
+2025;7;China;TENDENCY INTERNATIONAL CO., LIMITED;2939;9;Inland;Lengkap;1;1;Terdeteksi;13;-4;Ringan;Keterbatasan kendaraan pengangkut;1;1;0;0;1;1;0.60;23.08;Low
+2025;7;China;TENDENCY INTERNATIONAL CO., LIMITED;3227;83;Customs;Lengkap;14;14;Tidak Terdeteksi;23;60;Berat;Kepadatan kontainer di terminal;3;3;0;2;3;3;2.00;76.92;High
+2025;7;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;8896;106;Inland;Lengkap;9;19;Tidak Terdeteksi;14;92;Berat;Lonjakan volume impor musiman;3;3;0;2;3;3;2.00;76.92;High
+2025;7;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7405;37;Customs;Tidak Lengkap;8;24;Terdeteksi;29;8;Berat;Penahanan barang untuk inspeksi tambahan;3;3;2;0;2;3;2.25;86.54;High
+2025;7;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;6189;47;Port;Lengkap;17;16;Tidak Terdeteksi;26;21;Sedang;Pemeriksaan bea cukai lebih ketat;3;3;0;2;3;3;2.00;76.92;High
+2025;8;China;TENDENCY INTERNATIONAL CO., LIMITED;6078;79;Shipping;Lengkap;13;7;Tidak Terdeteksi;40;39;Berat;Penahanan barang untuk inspeksi tambahan;3;2;0;2;3;3;1.85;71.15;High
+2025;9;China;Shandong Lantian New Material Technology Co.,Ltd.;5860;0;Port;Lengkap;7;9;Terdeteksi;12;-12;Ringan;Pemeriksaan bea cukai lebih ketat;1;2;0;0;1;3;0.95;36.54;Low
+2025;10;China;TENDENCY INTERNATIONAL CO., LIMITED;4922;44;Inland;Tidak Lengkap;2;5;Tidak Terdeteksi;14;30;Sedang;Keterlambatan armada trucking;3;2;2;2;3;1;2.25;86.54;High
+2025;10;China;TENDENCY INTERNATIONAL CO., LIMITED;2983;41;Port;Lengkap;1;3;Terdeteksi;25;16;Sedang;Kepadatan kontainer di terminal;3;1;0;0;3;1;1.30;50.00;Medium
+2025;10;China;TENDENCY INTERNATIONAL CO., LIMITED;5272;85;Customs;Tidak Lengkap;2;9;Tidak Terdeteksi;34;51;Berat;Penyesuaian HS Code oleh otoritas;3;2;2;2;3;1;2.25;86.54;High
+2025;10;Vietnam;TENDENCY INTERNATIONAL CO., LIMITED;7515;29;Shipping;Tidak Lengkap;16;12;Terdeteksi;11;18;Berat;Pemeriksaan bea cukai lebih ketat;2;3;2;0;3;3;2.20;84.62;High
+2025;10;China;TENDENCY INTERNATIONAL CO., LIMITED;4351;1;Port;Lengkap;6;16;Terdeteksi;9;-8;Ringan;Kapal mengalami perubahan jadwal keberangkatan;1;3;0;0;1;2;1.00;38.46;Low
+2025;11;China;TENDENCY INTERNATIONAL CO., LIMITED;5652;107;Port;Lengkap;3;2;Tidak Terdeteksi;20;87;Berat;Keterbatasan alat bongkar pelabuhan;3;1;0;2;3;1;1.50;57.69;Medium
+2025;11;China;TENDENCY INTERNATIONAL CO., LIMITED;4203;34;Inland;Tidak Lengkap;14;10;Tidak Terdeteksi;22;12;Sedang;Penahanan barang untuk inspeksi tambahan;3;2;2;2;3;3;2.45;94.23;High
+2025;11;China;Shandong Lantian New Material Technology Co.,Ltd.;8728;111;Customs;Tidak Lengkap;14;14;Tidak Terdeteksi;21;90;Berat;Penahanan barang untuk inspeksi tambahan;3;3;2;2;3;3;2.60;100.00;High
+2025;12;Vietnam;Shandong Lantian New Material Technology Co.,Ltd.;7015;45;Port;Tidak Lengkap;10;16;Terdeteksi;22;23;Sedang;Keterbatasan kendaraan pengangkut;3;3;2;0;3;3;2.40;92.31;High
