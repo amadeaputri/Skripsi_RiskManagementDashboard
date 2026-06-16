@@ -110,16 +110,29 @@ section[data-testid="stSidebar"] div[role="radiogroup"] label > div:first-child 
 /* ========================================
 MENU NAVIGATION
 ======================================== */
+
+/* Wrapper radiogroup */
 section[data-testid="stSidebar"] div[role="radiogroup"] {
-    display: flex;
-    flex-direction: column;
-    gap: 0.8rem;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.8rem !important;
     align-items: center !important;
     width: 100% !important;
     padding: 0 !important;
+    margin: 0 !important;
 }
 
-section[data-testid="stSidebar"] label[data-baseweb="radio"] {
+/* Setiap item radio — cover semua kemungkinan selector Streamlit */
+section[data-testid="stSidebar"] div[role="radiogroup"] > div {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+section[data-testid="stSidebar"] label[data-baseweb="radio"],
+section[data-testid="stSidebar"] div[role="radiogroup"] label {
     width: 90% !important;
     display: flex !important;
     justify-content: center !important;
@@ -133,30 +146,45 @@ section[data-testid="stSidebar"] label[data-baseweb="radio"] {
     padding: 0.9rem 1rem !important;
     margin: 0 auto !important;
 
-    transition: all 0.25s ease;
-    cursor: pointer;
+    transition: all 0.25s ease !important;
+    cursor: pointer !important;
 }
 
-section[data-testid="stSidebar"] label[data-baseweb="radio"]:hover {
+section[data-testid="stSidebar"] label[data-baseweb="radio"]:hover,
+section[data-testid="stSidebar"] div[role="radiogroup"] label:hover {
     background: #eef2ff !important;
-    transform: translateY(-2px);
+    transform: translateY(-2px) !important;
 }
 
-section[data-testid="stSidebar"] label[data-baseweb="radio"] p {
+/* Teks label */
+section[data-testid="stSidebar"] label[data-baseweb="radio"] p,
+section[data-testid="stSidebar"] label[data-baseweb="radio"] div,
+section[data-testid="stSidebar"] label[data-baseweb="radio"] span,
+section[data-testid="stSidebar"] div[role="radiogroup"] label p,
+section[data-testid="stSidebar"] div[role="radiogroup"] label div,
+section[data-testid="stSidebar"] div[role="radiogroup"] label span {
     color: #4b5563 !important;
     font-size: 0.9rem !important;
     font-weight: 600 !important;
     margin: 0 !important;
     text-align: center !important;
     white-space: nowrap !important;
+    width: 100% !important;
 }
 
-section[data-testid="stSidebar"] label[data-baseweb="radio"]:has(input:checked) {
+/* State aktif / checked */
+section[data-testid="stSidebar"] label[data-baseweb="radio"]:has(input:checked),
+section[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) {
     background: var(--primary) !important;
-    box-shadow: 0 6px 18px rgba(75,73,172,0.18);
+    box-shadow: 0 6px 18px rgba(75,73,172,0.18) !important;
 }
 
-section[data-testid="stSidebar"] label[data-baseweb="radio"]:has(input:checked) p {
+section[data-testid="stSidebar"] label[data-baseweb="radio"]:has(input:checked) p,
+section[data-testid="stSidebar"] label[data-baseweb="radio"]:has(input:checked) div,
+section[data-testid="stSidebar"] label[data-baseweb="radio"]:has(input:checked) span,
+section[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) p,
+section[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) div,
+section[data-testid="stSidebar"] div[role="radiogroup"] label:has(input:checked) span {
     color: white !important;
 }
 
