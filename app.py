@@ -276,7 +276,31 @@ INPUT
 }
 
 /* ========================================
-BUTTON
+SIDEBAR BUTTON — FIX CENTERING
+======================================== */
+section[data-testid="stSidebar"] .stButton {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+section[data-testid="stSidebar"] [data-testid="stButton"] {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+}
+
+section[data-testid="stSidebar"] .stButton > button {
+    width: 90% !important;
+    margin: 0 auto !important;
+}
+
+/* ========================================
+BUTTON (GLOBAL)
 ======================================== */
 .stButton > button {
     background: linear-gradient(
@@ -707,7 +731,7 @@ if menu == "⚡ Prediksi Risiko":
             col_map = {col: col.strip().replace(' ', '_') for col in upload_df.columns}
             upload_df = upload_df.rename(columns=col_map)
 
-            # Cek kolom wajib (6 skor + Risk_Score_100)
+            # Cek kolom wajib
             missing_cols = [c for c in REQUIRED_COLS if c not in upload_df.columns]
 
             if missing_cols:
